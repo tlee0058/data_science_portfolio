@@ -12,8 +12,7 @@ Contents below are data analytics, visualization and science projects that I cre
 
     - [Visualizing Earnings Based on College Majors](https://github.com/tlee0058/data_science_portfolio/blob/master/Visualizing%20Earnings%20Based%20on%20College%20Majors.ipynb): I used Matplotlib to explore the data by plots such as Scatter, Bar, Histogram and Boxplot. They help me to find out which majors were the most and least popular; which majors are mostly dominated by male vs female; which majors had the highest pay, etc. I was also able to save the graphs into a separate png file. [gender_degrees.png](https://github.com/tlee0058/data_science_portfolio/blob/master/gender_degrees.png)
 
-    - [Visualizing Geographic Data with Basemap](https://github.com/tlee0058/data_science_portfolio/blob/master/Visualizing%20Geographic%20Data%20with%20Basemap.ipynb): Using one of Matplotlib's toolkit - Basemap, I explored which air routes were the most popular.
-    
+  
     -[Analyizing NYC High School Data](https://github.com/tlee0058/data_science_portfolio/blob/master/Analyzing%20NYC%20High%20School%20Data.ipynb): Using data from multiple sources and matplotlib, I explored which schools in NYC and which regions have the highest SAT scores.
 - ## SQL
 
